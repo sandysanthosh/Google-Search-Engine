@@ -10,3 +10,8 @@ https://search.google.com/search-console?resource_id=http%3A%2F%2Fstarwalt.in%2F
 
 https://www.google.com/webmasters/verification/home?hl=en
 
+
+https://www.xml-sitemaps.com/
+
+submit site -> map in https://search.google.com/search-console/sitemaps?resource_id=http%3A%2F%2Fstarwalt.in%2F
+
